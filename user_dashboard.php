@@ -56,7 +56,7 @@ $name= $_SESSION['fullname'];
 
 <!-- header section ends -->
 
-<!-- home section starts  -->
+<!-- home section starssdsts  -->
 
 <section class="home" id="home">
 
